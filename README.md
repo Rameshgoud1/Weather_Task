@@ -5,7 +5,7 @@ This app allows users to search for any city and view real-time weather details 
 
 🔗 **Live Demo**: [Weather_Task on StackBlitz](https://stackblitz.com/~/github.com/Rameshgoud1/Weather_Task)  
 
- Introduction  
+ ## Introduction  
 
 - Weather Task is a lightweight weather application.  
 - Built with **React + Vite** for fast refresh and modern bundling.  
@@ -13,7 +13,7 @@ This app allows users to search for any city and view real-time weather details 
 - Provides a **clean, responsive, and user-friendly UI**.  
 
 
-Project Structure  
+## Project Structure  
 
 Weather_Task/
 ├── weather_task/ # Main React + Vite app
@@ -24,15 +24,15 @@ Weather_Task/
 └── README.md # Project documentation
 
 
-👉 **Note**: All the main code resides inside the `weather_task` folder.  
+## 👉 **Note**: All the main code resides inside the `weather_task` folder.  
 Always run npm commands inside this folder.  
 
 
-Getting Started (Local Setup)  
+## Getting Started (Local Setup)  
 
-Follow these steps to run the project locally:  
+## Follow these steps to run the project locally:  
 
-1 **Clone the Repository**  
+**Clone the Repository**  
    
    git clone https://github.com/Rameshgoud1/Weather_Task.git
 
@@ -42,27 +42,27 @@ npm install
 
 npm start
 
-Open in Browser
-Go to: http://localhost:5173/
+## Open in Browser
+     Go to: http://localhost:5173/
 
- Run Online (No Installation Required)
+     Run Online (No Installation Required)
 
-You can try the project instantly on StackBlitz without setup:
+     You can try the project instantly on StackBlitz without setup:
 
-👉 [Weather_Task on StackBlitz](https://stackblitz.com/~/github.com/Rameshgoud1
+## 👉 [Weather_Task on StackBlitz](https://stackblitz.com/~/github.com/Rameshgoud1/Weather_Task)
 
-6️⃣ Features
+## Features
 
-🔍 Search weather by city name
+    🔍 Search weather by city name
 
-🌡️ Real-time temperature, humidity, wind speed, and conditions
+    🌡️ Real-time temperature, humidity, wind speed, and conditions
 
-📱 Responsive design for all devices
+    📱 Responsive design for all devices
 
-⚡ Fast refresh with Vite
+    ⚡ Fast refresh with Vite
 
-🚀 Easy deployment (local & online)
+    🚀 Easy deployment (local & online)
 
-Author
-👨‍💻 Poladasu Ramesh Goud
-🌐 GitHub: @Rameshgoud1
+## Author
+   👨‍💻 Poladasu Ramesh Goud
+   🌐 GitHub: @Rameshgoud1
