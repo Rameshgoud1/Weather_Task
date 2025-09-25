@@ -5,15 +5,13 @@ This app allows users to search for any city and view real-time weather details 
 
 🔗 **Live Demo**: [Weather_Task on StackBlitz](https://stackblitz.com/~/github.com/Rameshgoud1/Weather_Task)  
 
----
- 1️⃣ Introduction  
+ Introduction  
 
 - Weather Task is a lightweight weather application.  
 - Built with **React + Vite** for fast refresh and modern bundling.  
 - Fetches weather data from **OpenWeatherMap API (or similar)**.  
 - Provides a **clean, responsive, and user-friendly UI**.  
 
----
 
 Project Structure  
 
@@ -29,14 +27,13 @@ Weather_Task/
 👉 **Note**: All the main code resides inside the `weather_task` folder.  
 Always run npm commands inside this folder.  
 
----
 
 Getting Started (Local Setup)  
 
 Follow these steps to run the project locally:  
 
 1 **Clone the Repository**  
-   ```bash
+   
    git clone https://github.com/Rameshgoud1/Weather_Task.git
 
 cd Weather_Task/weather_task
