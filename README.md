@@ -4,6 +4,7 @@ A simple and responsive weather application built using **React + Vite**.
 This app allows users to search for any city and view real-time weather details such as temperature, humidity, wind speed, and conditions.  
 
 🔗 **Live Demo**: [Weather_Task on StackBlitz](https://stackblitz.com/~/github.com/Rameshgoud1/Weather_Task)  
+🔗 **Live Demo**: [Weather_Task on Netlify](https://myweathertask.netlify.app/)  
 
  ## Introduction  
 
